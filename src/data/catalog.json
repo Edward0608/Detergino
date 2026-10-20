@@ -1,0 +1,4125 @@
+{
+ "groups": {
+  "rufe": "Rufe",
+  "vase-pardoseli": "Vase și pardoseli",
+  "odorizante": "Odorizante",
+  "curatenie": "Curățenie",
+  "servetele-umede": "Șervețele umede",
+  "cosmetice": "Cosmetice",
+  "dulciuri": "Dulciuri"
+ },
+ "categories": {
+  "detergent-lichid-rufe": {
+   "name": "Detergent lichid de rufe",
+   "group": "rufe"
+  },
+  "detergent-praf": {
+   "name": "Detergent praf de rufe",
+   "group": "rufe"
+  },
+  "capsule-rufe": {
+   "name": "Capsule de rufe",
+   "group": "rufe"
+  },
+  "balsam-rufe": {
+   "name": "Balsam de rufe",
+   "group": "rufe"
+  },
+  "detergent-vase": {
+   "name": "Detergent de vase",
+   "group": "vase-pardoseli"
+  },
+  "detergent-pardoseli": {
+   "name": "Detergent de pardoseli",
+   "group": "vase-pardoseli"
+  },
+  "odorizant-wc": {
+   "name": "Odorizant WC",
+   "group": "odorizante"
+  },
+  "odorizant-camera": {
+   "name": "Odorizant de cameră spray",
+   "group": "odorizante"
+  },
+  "difuzoare-betisoare": {
+   "name": "Difuzoare cu bețișoare",
+   "group": "odorizante"
+  },
+  "mopuri-galeti": {
+   "name": "Mopuri și găleți",
+   "group": "curatenie"
+  },
+  "accesorii-curatenie": {
+   "name": "Accesorii de curățenie",
+   "group": "curatenie"
+  },
+  "servetele-umede": {
+   "name": "Șervețele umede",
+   "group": "servetele-umede"
+  },
+  "sapun-lichid": {
+   "name": "Săpun lichid",
+   "group": "cosmetice"
+  },
+  "bomboane-ciocolata": {
+   "name": "Bomboane și ciocolată",
+   "group": "dulciuri"
+  },
+  "biscuiti-fursecuri": {
+   "name": "Biscuiți și fursecuri",
+   "group": "dulciuri"
+  },
+  "patiserie-batoane": {
+   "name": "Croissante și batoane",
+   "group": "dulciuri"
+  }
+ },
+ "products": [
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Super Wash",
+   "variant": "Ocean Fresh",
+   "category": "detergent-lichid-rufe",
+   "size": "5 L",
+   "washes": null,
+   "barcode": "4841980005311",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 1
+   },
+   "name": "Detergent lichid de rufe Super Wash Ocean Fresh",
+   "family": "Detergent lichid de rufe Super Wash",
+   "slug": "detergent-lichid-de-rufe-super-wash-ocean-fresh-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-super-wash-ocean-fresh-5-l.webp",
+     "px": 1187,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Super Wash",
+   "variant": "Mountain Fresh",
+   "category": "detergent-lichid-rufe",
+   "size": "5 L",
+   "washes": null,
+   "barcode": "4841980005304",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 1
+   },
+   "name": "Detergent lichid de rufe Super Wash Mountain Fresh",
+   "family": "Detergent lichid de rufe Super Wash",
+   "slug": "detergent-lichid-de-rufe-super-wash-mountain-fresh-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-super-wash-mountain-fresh-5-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Super Wash",
+   "variant": "Universal",
+   "category": "detergent-lichid-rufe",
+   "size": "6 L",
+   "washes": null,
+   "barcode": "704384783206",
+   "packaging": {
+    "bucBax": 3,
+    "baxRand": 10,
+    "randPal": 4,
+    "baxPal": 40
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 1
+   },
+   "name": "Detergent lichid de rufe Super Wash Universal",
+   "family": "Detergent lichid de rufe Super Wash",
+   "slug": "detergent-lichid-de-rufe-super-wash-universal-6-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-super-wash-universal-6-l.webp",
+     "px": 1084
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Ultra&Free",
+   "variant": "Original Universal",
+   "category": "detergent-lichid-rufe",
+   "size": "2 L",
+   "washes": 40,
+   "barcode": "4820196011514",
+   "packaging": {
+    "bucBax": 8,
+    "baxRand": 8,
+    "randPal": 5,
+    "baxPal": 40
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 1
+   },
+   "name": "Detergent lichid de rufe Ultra&Free Original Universal",
+   "family": "Detergent lichid de rufe Ultra&Free",
+   "slug": "detergent-lichid-de-rufe-ultra-free-original-universal-2-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-ultra-free-original-universal-2-l.webp",
+     "px": 1113,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Ultra&Free",
+   "variant": "Orhidee Color",
+   "category": "detergent-lichid-rufe",
+   "size": "2 L",
+   "washes": 40,
+   "barcode": "4820196011491",
+   "packaging": {
+    "bucBax": 8,
+    "baxRand": 8,
+    "randPal": 5,
+    "baxPal": 40
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 1
+   },
+   "name": "Detergent lichid de rufe Ultra&Free Orhidee Color",
+   "family": "Detergent lichid de rufe Ultra&Free",
+   "slug": "detergent-lichid-de-rufe-ultra-free-orhidee-color-2-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-ultra-free-orhidee-color-2-l.webp",
+     "px": 1113,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Ultra&Free",
+   "variant": "Alpine Freshness White",
+   "category": "detergent-lichid-rufe",
+   "size": "2 L",
+   "washes": 40,
+   "barcode": "4820196011507",
+   "packaging": {
+    "bucBax": 8,
+    "baxRand": 8,
+    "randPal": 5,
+    "baxPal": 40
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 1
+   },
+   "name": "Detergent lichid de rufe Ultra&Free Alpine Freshness White",
+   "family": "Detergent lichid de rufe Ultra&Free",
+   "slug": "detergent-lichid-de-rufe-ultra-free-alpine-freshness-white-2-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-ultra-free-alpine-freshness-white-2-l.webp",
+     "px": 1113,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Ultra&Free",
+   "variant": "Pro Black",
+   "category": "detergent-lichid-rufe",
+   "size": "2 L",
+   "washes": 40,
+   "barcode": "4820196011521",
+   "packaging": {
+    "bucBax": 8,
+    "baxRand": 8,
+    "randPal": 5,
+    "baxPal": 40
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 1
+   },
+   "name": "Detergent lichid de rufe Ultra&Free Pro Black",
+   "family": "Detergent lichid de rufe Ultra&Free",
+   "slug": "detergent-lichid-de-rufe-ultra-free-pro-black-2-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-ultra-free-pro-black-2-l.webp",
+     "px": 1114,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Ultra&Free",
+   "variant": "Original Universal",
+   "category": "detergent-lichid-rufe",
+   "size": "4 L",
+   "washes": 80,
+   "barcode": "4820196011415",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 2
+   },
+   "name": "Detergent lichid de rufe Ultra&Free Original Universal",
+   "family": "Detergent lichid de rufe Ultra&Free",
+   "slug": "detergent-lichid-de-rufe-ultra-free-original-universal-4-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-ultra-free-original-universal-4-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Ultra&Free",
+   "variant": "Orhidee Universal",
+   "category": "detergent-lichid-rufe",
+   "size": "4 L",
+   "washes": 80,
+   "barcode": "4820196011392",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 2
+   },
+   "name": "Detergent lichid de rufe Ultra&Free Orhidee Universal",
+   "family": "Detergent lichid de rufe Ultra&Free",
+   "slug": "detergent-lichid-de-rufe-ultra-free-orhidee-universal-4-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-ultra-free-orhidee-universal-4-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Ultra&Free",
+   "variant": "Alpine Freshness Universal",
+   "category": "detergent-lichid-rufe",
+   "size": "4 L",
+   "washes": 80,
+   "barcode": "4820196011408",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 2
+   },
+   "name": "Detergent lichid de rufe Ultra&Free Alpine Freshness Universal",
+   "family": "Detergent lichid de rufe Ultra&Free",
+   "slug": "detergent-lichid-de-rufe-ultra-free-alpine-freshness-universal-4-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-ultra-free-alpine-freshness-universal-4-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Ultra&Free",
+   "variant": "Pro Black",
+   "category": "detergent-lichid-rufe",
+   "size": "4 L",
+   "washes": 80,
+   "barcode": "4820196011422",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 2
+   },
+   "name": "Detergent lichid de rufe Ultra&Free Pro Black",
+   "family": "Detergent lichid de rufe Ultra&Free",
+   "slug": "detergent-lichid-de-rufe-ultra-free-pro-black-4-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-ultra-free-pro-black-4-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Ultra&Free",
+   "variant": "Original Universal",
+   "category": "detergent-lichid-rufe",
+   "size": "5 L",
+   "washes": 125,
+   "barcode": "4820196011453",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 2
+   },
+   "name": "Detergent lichid de rufe Ultra&Free Original Universal",
+   "family": "Detergent lichid de rufe Ultra&Free",
+   "slug": "detergent-lichid-de-rufe-ultra-free-original-universal-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-ultra-free-original-universal-5-l.webp",
+     "px": 490
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Ultra&Free",
+   "variant": "Orhidee Universal",
+   "category": "detergent-lichid-rufe",
+   "size": "5 L",
+   "washes": 125,
+   "barcode": "4820196011439",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 2
+   },
+   "name": "Detergent lichid de rufe Ultra&Free Orhidee Universal",
+   "family": "Detergent lichid de rufe Ultra&Free",
+   "slug": "detergent-lichid-de-rufe-ultra-free-orhidee-universal-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-ultra-free-orhidee-universal-5-l.webp",
+     "px": 1031,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Ultra&Free",
+   "variant": "Alpine Freshness Universal",
+   "category": "detergent-lichid-rufe",
+   "size": "5 L",
+   "washes": 125,
+   "barcode": "4820196011446",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 2
+   },
+   "name": "Detergent lichid de rufe Ultra&Free Alpine Freshness Universal",
+   "family": "Detergent lichid de rufe Ultra&Free",
+   "slug": "detergent-lichid-de-rufe-ultra-free-alpine-freshness-universal-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-ultra-free-alpine-freshness-universal-5-l.webp",
+     "px": 1029,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Ultra&Free",
+   "variant": "Pro Black",
+   "category": "detergent-lichid-rufe",
+   "size": "5 L",
+   "washes": 125,
+   "barcode": "4820196011460",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 2
+   },
+   "name": "Detergent lichid de rufe Ultra&Free Pro Black",
+   "family": "Detergent lichid de rufe Ultra&Free",
+   "slug": "detergent-lichid-de-rufe-ultra-free-pro-black-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-ultra-free-pro-black-5-l.webp",
+     "px": 1034,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "Ultra&Free",
+   "variant": "Universal",
+   "category": "detergent-lichid-rufe",
+   "size": "6 L",
+   "washes": null,
+   "barcode": "4820196013198",
+   "packaging": {
+    "bucBax": 3,
+    "baxRand": 10,
+    "randPal": 4,
+    "baxPal": 40
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 2
+   },
+   "name": "Detergent lichid de rufe Ultra&Free Universal",
+   "family": "Detergent lichid de rufe Ultra&Free",
+   "slug": "detergent-lichid-de-rufe-ultra-free-universal-6-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-ultra-free-universal-6-l.webp",
+     "px": 622
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "JO",
+   "variant": "Color",
+   "category": "detergent-lichid-rufe",
+   "size": "4 L",
+   "washes": null,
+   "barcode": "4820196012481",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 2
+   },
+   "name": "Detergent lichid de rufe JO Color",
+   "family": "Detergent lichid de rufe JO",
+   "slug": "detergent-lichid-de-rufe-jo-color-4-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-jo-color-4-l.webp",
+     "px": 932,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "JO",
+   "variant": "Universal",
+   "category": "detergent-lichid-rufe",
+   "size": "4 L",
+   "washes": null,
+   "barcode": "4820196012467",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 3
+   },
+   "name": "Detergent lichid de rufe JO Universal",
+   "family": "Detergent lichid de rufe JO",
+   "slug": "detergent-lichid-de-rufe-jo-universal-4-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-jo-universal-4-l.webp",
+     "px": 932,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "JO",
+   "variant": "White",
+   "category": "detergent-lichid-rufe",
+   "size": "4 L",
+   "washes": null,
+   "barcode": "4820196012504",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 3
+   },
+   "name": "Detergent lichid de rufe JO White",
+   "family": "Detergent lichid de rufe JO",
+   "slug": "detergent-lichid-de-rufe-jo-white-4-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-jo-white-4-l.webp",
+     "px": 931,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "JO",
+   "variant": "Color",
+   "category": "detergent-lichid-rufe",
+   "size": "5 L",
+   "washes": null,
+   "barcode": "4820196012542",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 3
+   },
+   "name": "Detergent lichid de rufe JO Color",
+   "family": "Detergent lichid de rufe JO",
+   "slug": "detergent-lichid-de-rufe-jo-color-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-jo-color-5-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "JO",
+   "variant": "Universal",
+   "category": "detergent-lichid-rufe",
+   "size": "5 L",
+   "washes": null,
+   "barcode": "4820196012528",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 3
+   },
+   "name": "Detergent lichid de rufe JO Universal",
+   "family": "Detergent lichid de rufe JO",
+   "slug": "detergent-lichid-de-rufe-jo-universal-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-jo-universal-5-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de rufe",
+   "brand": "JO",
+   "variant": "White",
+   "category": "detergent-lichid-rufe",
+   "size": "5 L",
+   "washes": null,
+   "barcode": "4820196012566",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 3
+   },
+   "name": "Detergent lichid de rufe JO White",
+   "family": "Detergent lichid de rufe JO",
+   "slug": "detergent-lichid-de-rufe-jo-white-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-rufe-jo-white-5-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Balsam de rufe",
+   "brand": "Free",
+   "variant": "Gold Heart",
+   "category": "balsam-rufe",
+   "size": "1 L",
+   "washes": 40,
+   "barcode": "4820196011606",
+   "packaging": {
+    "bucBax": 14,
+    "baxRand": 10,
+    "randPal": 5,
+    "baxPal": 50
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 3
+   },
+   "name": "Balsam de rufe Free Gold Heart",
+   "family": "Balsam de rufe Free",
+   "slug": "balsam-de-rufe-free-gold-heart-1-l",
+   "images": [
+    {
+     "src": "/products/balsam-de-rufe-free-gold-heart-1-l.webp",
+     "px": 1106,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Balsam de rufe",
+   "brand": "Free",
+   "variant": "Blue Lagoon",
+   "category": "balsam-rufe",
+   "size": "1 L",
+   "washes": 40,
+   "barcode": "4820196011590",
+   "packaging": {
+    "bucBax": 14,
+    "baxRand": 10,
+    "randPal": 5,
+    "baxPal": 50
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 3
+   },
+   "name": "Balsam de rufe Free Blue Lagoon",
+   "family": "Balsam de rufe Free",
+   "slug": "balsam-de-rufe-free-blue-lagoon-1-l",
+   "images": [
+    {
+     "src": "/products/balsam-de-rufe-free-blue-lagoon-1-l.webp",
+     "px": 1020,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Balsam de rufe",
+   "brand": "Free",
+   "variant": "Pink Dream",
+   "category": "balsam-rufe",
+   "size": "1 L",
+   "washes": 40,
+   "barcode": "4820496011613",
+   "packaging": {
+    "bucBax": 14,
+    "baxRand": 10,
+    "randPal": 5,
+    "baxPal": 50
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 3
+   },
+   "name": "Balsam de rufe Free Pink Dream",
+   "family": "Balsam de rufe Free",
+   "slug": "balsam-de-rufe-free-pink-dream-1-l",
+   "images": [
+    {
+     "src": "/products/balsam-de-rufe-free-pink-dream-1-l.webp",
+     "px": 1069,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Balsam de rufe",
+   "brand": "Free",
+   "variant": "Gold Heart",
+   "category": "balsam-rufe",
+   "size": "4 L",
+   "washes": 160,
+   "barcode": "4820196012627",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 3
+   },
+   "name": "Balsam de rufe Free Gold Heart",
+   "family": "Balsam de rufe Free",
+   "slug": "balsam-de-rufe-free-gold-heart-4-l",
+   "images": [
+    {
+     "src": "/products/balsam-de-rufe-free-gold-heart-4-l.webp",
+     "px": 475
+    }
+   ]
+  },
+  {
+   "type": "Balsam de rufe",
+   "brand": "Free",
+   "variant": "Blue Lagoon",
+   "category": "balsam-rufe",
+   "size": "4 L",
+   "washes": 160,
+   "barcode": "4820196012580",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 3
+   },
+   "name": "Balsam de rufe Free Blue Lagoon",
+   "family": "Balsam de rufe Free",
+   "slug": "balsam-de-rufe-free-blue-lagoon-4-l",
+   "images": [
+    {
+     "src": "/products/balsam-de-rufe-free-blue-lagoon-4-l.webp",
+     "px": 1180,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Balsam de rufe",
+   "brand": "Free",
+   "variant": "Pink Dream",
+   "category": "balsam-rufe",
+   "size": "4 L",
+   "washes": 160,
+   "barcode": "4820196012603",
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 4,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 4
+   },
+   "name": "Balsam de rufe Free Pink Dream",
+   "family": "Balsam de rufe Free",
+   "slug": "balsam-de-rufe-free-pink-dream-4-l",
+   "images": [
+    {
+     "src": "/products/balsam-de-rufe-free-pink-dream-4-l.webp",
+     "px": 475
+    }
+   ]
+  },
+  {
+   "type": "Detergent universal pentru pardoseli",
+   "brand": "Super Wash",
+   "variant": "Lămâie",
+   "category": "detergent-pardoseli",
+   "size": "1 L",
+   "washes": null,
+   "barcode": "4841980005816",
+   "packaging": {
+    "bucBax": 15,
+    "baxRand": 8,
+    "randPal": 5,
+    "baxPal": 40
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 4
+   },
+   "name": "Detergent universal pentru pardoseli Super Wash Lămâie",
+   "family": "Detergent universal pentru pardoseli Super Wash",
+   "slug": "detergent-universal-pentru-pardoseli-super-wash-lamaie-1-l",
+   "images": [
+    {
+     "src": "/products/detergent-universal-pentru-pardoseli-super-wash-lamaie-1-l.webp",
+     "px": 1151,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent universal pentru pardoseli",
+   "brand": "Super Wash",
+   "variant": "Orhidee",
+   "category": "detergent-pardoseli",
+   "size": "1 L",
+   "washes": null,
+   "barcode": "4841980005809",
+   "packaging": {
+    "bucBax": 15,
+    "baxRand": 8,
+    "randPal": 5,
+    "baxPal": 40
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 4
+   },
+   "name": "Detergent universal pentru pardoseli Super Wash Orhidee",
+   "family": "Detergent universal pentru pardoseli Super Wash",
+   "slug": "detergent-universal-pentru-pardoseli-super-wash-orhidee-1-l",
+   "images": [
+    {
+     "src": "/products/detergent-universal-pentru-pardoseli-super-wash-orhidee-1-l.webp",
+     "px": 891,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent universal pentru pardoseli",
+   "brand": "Super Wash",
+   "variant": "Portocală",
+   "category": "detergent-pardoseli",
+   "size": "1 L",
+   "washes": null,
+   "barcode": "4841980005823",
+   "packaging": {
+    "bucBax": 15,
+    "baxRand": 8,
+    "randPal": 5,
+    "baxPal": 40
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 4
+   },
+   "name": "Detergent universal pentru pardoseli Super Wash Portocală",
+   "family": "Detergent universal pentru pardoseli Super Wash",
+   "slug": "detergent-universal-pentru-pardoseli-super-wash-portocala-1-l",
+   "images": [
+    {
+     "src": "/products/detergent-universal-pentru-pardoseli-super-wash-portocala-1-l.webp",
+     "px": 905,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de vase",
+   "brand": "Super Wash",
+   "variant": "Măr",
+   "category": "detergent-vase",
+   "size": null,
+   "washes": null,
+   "barcode": "4841980005700",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 8,
+    "randPal": 6,
+    "baxPal": 48
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 4
+   },
+   "name": "Detergent lichid de vase Super Wash Măr",
+   "family": "Detergent lichid de vase Super Wash",
+   "slug": "detergent-lichid-de-vase-super-wash-mar",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-vase-super-wash-mar.webp",
+     "px": 944,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de vase",
+   "brand": "Super Wash",
+   "variant": "Lămâie",
+   "category": "detergent-vase",
+   "size": null,
+   "washes": null,
+   "barcode": "4841980005694",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 8,
+    "randPal": 6,
+    "baxPal": 48
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 4
+   },
+   "name": "Detergent lichid de vase Super Wash Lămâie",
+   "family": "Detergent lichid de vase Super Wash",
+   "slug": "detergent-lichid-de-vase-super-wash-lamaie",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-vase-super-wash-lamaie.webp",
+     "px": 944,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de vase",
+   "brand": "Free",
+   "variant": "Aloe Vera",
+   "category": "detergent-vase",
+   "size": "0,5 L",
+   "washes": null,
+   "barcode": "4820196010531",
+   "packaging": {
+    "bucBax": 21,
+    "baxRand": 9,
+    "randPal": 6,
+    "baxPal": 54
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 4
+   },
+   "name": "Detergent lichid de vase Free Aloe Vera",
+   "family": "Detergent lichid de vase Free",
+   "slug": "detergent-lichid-de-vase-free-aloe-vera-0-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-vase-free-aloe-vera-0-5-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de vase",
+   "brand": "Free",
+   "variant": "Lămâie",
+   "category": "detergent-vase",
+   "size": "0,5 L",
+   "washes": null,
+   "barcode": "4820196011477",
+   "packaging": {
+    "bucBax": 21,
+    "baxRand": 9,
+    "randPal": 6,
+    "baxPal": 54
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 4
+   },
+   "name": "Detergent lichid de vase Free Lămâie",
+   "family": "Detergent lichid de vase Free",
+   "slug": "detergent-lichid-de-vase-free-lamaie-0-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-vase-free-lamaie-0-5-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de vase",
+   "brand": "Free",
+   "variant": "Măr și lime",
+   "category": "detergent-vase",
+   "size": "0,5 L",
+   "washes": null,
+   "barcode": "4820196010579",
+   "packaging": {
+    "bucBax": 21,
+    "baxRand": 9,
+    "randPal": 6,
+    "baxPal": 54
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 4
+   },
+   "name": "Detergent lichid de vase Free Măr și lime",
+   "family": "Detergent lichid de vase Free",
+   "slug": "detergent-lichid-de-vase-free-mar-si-lime-0-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-vase-free-mar-si-lime-0-5-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de vase",
+   "brand": "Free",
+   "variant": "Aloe Vera",
+   "category": "detergent-vase",
+   "size": "1 L",
+   "washes": null,
+   "barcode": "4820196011484",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 12,
+    "randPal": 5,
+    "baxPal": 60
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 4
+   },
+   "name": "Detergent lichid de vase Free Aloe Vera",
+   "family": "Detergent lichid de vase Free",
+   "slug": "detergent-lichid-de-vase-free-aloe-vera-1-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-vase-free-aloe-vera-1-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de vase",
+   "brand": "Free",
+   "variant": "Lămâie",
+   "category": "detergent-vase",
+   "size": "1 L",
+   "washes": null,
+   "barcode": "4820196010135",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 12,
+    "randPal": 5,
+    "baxPal": 60
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 4
+   },
+   "name": "Detergent lichid de vase Free Lămâie",
+   "family": "Detergent lichid de vase Free",
+   "slug": "detergent-lichid-de-vase-free-lamaie-1-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-vase-free-lamaie-1-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de vase",
+   "brand": "Free",
+   "variant": "Măr și lime",
+   "category": "detergent-vase",
+   "size": "1 L",
+   "washes": null,
+   "barcode": "4820196010173",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 12,
+    "randPal": 5,
+    "baxPal": 60
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 4
+   },
+   "name": "Detergent lichid de vase Free Măr și lime",
+   "family": "Detergent lichid de vase Free",
+   "slug": "detergent-lichid-de-vase-free-mar-si-lime-1-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-vase-free-mar-si-lime-1-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de vase",
+   "brand": "Free",
+   "variant": "Aloe Vera",
+   "category": "detergent-vase",
+   "size": "5 L",
+   "washes": null,
+   "barcode": "4820196012443",
+   "packaging": {
+    "bucBax": 3,
+    "baxRand": 12,
+    "randPal": 4,
+    "baxPal": 48
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 5
+   },
+   "name": "Detergent lichid de vase Free Aloe Vera",
+   "family": "Detergent lichid de vase Free",
+   "slug": "detergent-lichid-de-vase-free-aloe-vera-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-vase-free-aloe-vera-5-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de vase",
+   "brand": "Free",
+   "variant": "Lămâie",
+   "category": "detergent-vase",
+   "size": "5 L",
+   "washes": null,
+   "barcode": "4820196012405",
+   "packaging": {
+    "bucBax": 3,
+    "baxRand": 12,
+    "randPal": 4,
+    "baxPal": 48
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 5
+   },
+   "name": "Detergent lichid de vase Free Lămâie",
+   "family": "Detergent lichid de vase Free",
+   "slug": "detergent-lichid-de-vase-free-lamaie-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-vase-free-lamaie-5-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent lichid de vase",
+   "brand": "Free",
+   "variant": "Măr și lime",
+   "category": "detergent-vase",
+   "size": "5 L",
+   "washes": null,
+   "barcode": "4820196012429",
+   "packaging": {
+    "bucBax": 3,
+    "baxRand": 12,
+    "randPal": 4,
+    "baxPal": 48
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 5
+   },
+   "name": "Detergent lichid de vase Free Măr și lime",
+   "family": "Detergent lichid de vase Free",
+   "slug": "detergent-lichid-de-vase-free-mar-si-lime-5-l",
+   "images": [
+    {
+     "src": "/products/detergent-lichid-de-vase-free-mar-si-lime-5-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Detergent capsule",
+   "brand": "Free",
+   "variant": null,
+   "category": "capsule-rufe",
+   "size": "25 buc",
+   "washes": null,
+   "barcode": "704384783213",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 8,
+    "randPal": 7,
+    "baxPal": 56
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 5
+   },
+   "name": "Detergent capsule Free",
+   "family": "Detergent capsule Free",
+   "slug": "detergent-capsule-free-25-buc",
+   "images": [
+    {
+     "src": "/products/detergent-capsule-free-25-buc.webp",
+     "px": 276
+    }
+   ]
+  },
+  {
+   "type": "Detergent capsule",
+   "brand": "Free",
+   "variant": null,
+   "category": "capsule-rufe",
+   "size": "55 buc",
+   "washes": null,
+   "barcode": "704384783220",
+   "packaging": {
+    "bucBax": 6,
+    "baxRand": 8,
+    "randPal": 6,
+    "baxPal": 48
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 5
+   },
+   "name": "Detergent capsule Free",
+   "family": "Detergent capsule Free",
+   "slug": "detergent-capsule-free-55-buc",
+   "images": [
+    {
+     "src": "/products/detergent-capsule-free-55-buc.webp",
+     "px": 380
+    }
+   ]
+  },
+  {
+   "type": "Detergent praf de rufe",
+   "brand": "Free",
+   "variant": "Universal Spring Flowers",
+   "category": "detergent-praf",
+   "size": "2 kg",
+   "washes": null,
+   "barcode": "704384783251",
+   "packaging": {
+    "bucBax": 1,
+    "baxRand": null,
+    "randPal": null,
+    "baxPal": 374
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 5
+   },
+   "name": "Detergent praf de rufe Free Universal Spring Flowers",
+   "family": "Detergent praf de rufe Free",
+   "slug": "detergent-praf-de-rufe-free-universal-spring-flowers-2-kg",
+   "images": [
+    {
+     "src": "/products/detergent-praf-de-rufe-free-universal-spring-flowers-2-kg.webp",
+     "px": 469
+    }
+   ]
+  },
+  {
+   "type": "Detergent praf de rufe",
+   "brand": "Free",
+   "variant": "Universal Spring Flowers",
+   "category": "detergent-praf",
+   "size": "4 kg",
+   "washes": null,
+   "barcode": "704384783244",
+   "packaging": {
+    "bucBax": 1,
+    "baxRand": null,
+    "randPal": null,
+    "baxPal": 187
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 5
+   },
+   "name": "Detergent praf de rufe Free Universal Spring Flowers",
+   "family": "Detergent praf de rufe Free",
+   "slug": "detergent-praf-de-rufe-free-universal-spring-flowers-4-kg",
+   "images": [
+    {
+     "src": "/products/detergent-praf-de-rufe-free-universal-spring-flowers-4-kg.webp",
+     "px": 356
+    }
+   ]
+  },
+  {
+   "type": "Detergent praf de rufe",
+   "brand": "Free",
+   "variant": "Universal",
+   "category": "detergent-praf",
+   "size": "9 kg",
+   "washes": null,
+   "barcode": "704384783190",
+   "packaging": {
+    "bucBax": 1,
+    "baxRand": null,
+    "randPal": null,
+    "baxPal": 100
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 5
+   },
+   "name": "Detergent praf de rufe Free Universal",
+   "family": "Detergent praf de rufe Free",
+   "slug": "detergent-praf-de-rufe-free-universal-9-kg",
+   "images": [
+    {
+     "src": "/products/detergent-praf-de-rufe-free-universal-9-kg.webp",
+     "px": 551
+    }
+   ]
+  },
+  {
+   "type": "Detergent praf de rufe",
+   "brand": "Super Wash",
+   "variant": "Universal",
+   "category": "detergent-praf",
+   "size": "10 kg",
+   "washes": null,
+   "barcode": "704384783145",
+   "packaging": {
+    "bucBax": 1,
+    "baxRand": null,
+    "randPal": null,
+    "baxPal": 100
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 5
+   },
+   "name": "Detergent praf de rufe Super Wash Universal",
+   "family": "Detergent praf de rufe Super Wash",
+   "slug": "detergent-praf-de-rufe-super-wash-universal-10-kg",
+   "images": [
+    {
+     "src": "/products/detergent-praf-de-rufe-super-wash-universal-10-kg.webp",
+     "px": 513
+    }
+   ]
+  },
+  {
+   "type": "Odorizant WC",
+   "brand": "Super Wash",
+   "variant": "Lemon",
+   "category": "odorizant-wc",
+   "size": "1 x 50 g",
+   "washes": null,
+   "barcode": "704384783305",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 16,
+    "randPal": 11,
+    "baxPal": 176
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 5
+   },
+   "name": "Odorizant WC Super Wash Lemon",
+   "family": "Odorizant WC Super Wash",
+   "slug": "odorizant-wc-super-wash-lemon-1-x-50-g",
+   "images": [
+    {
+     "src": "/products/odorizant-wc-super-wash-lemon-1-x-50-g.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant WC",
+   "brand": "Super Wash",
+   "variant": "Ocean",
+   "category": "odorizant-wc",
+   "size": "1 x 50 g",
+   "washes": null,
+   "barcode": "704384783183",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 16,
+    "randPal": 11,
+    "baxPal": 176
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 6
+   },
+   "name": "Odorizant WC Super Wash Ocean",
+   "family": "Odorizant WC Super Wash",
+   "slug": "odorizant-wc-super-wash-ocean-1-x-50-g",
+   "images": [
+    {
+     "src": "/products/odorizant-wc-super-wash-ocean-1-x-50-g.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant WC",
+   "brand": "Super Wash",
+   "variant": "Lemon",
+   "category": "odorizant-wc",
+   "size": "2 x 50 g",
+   "washes": null,
+   "barcode": "704384783336",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 16,
+    "randPal": 9,
+    "baxPal": 144
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 6
+   },
+   "name": "Odorizant WC Super Wash Lemon",
+   "family": "Odorizant WC Super Wash",
+   "slug": "odorizant-wc-super-wash-lemon-2-x-50-g",
+   "images": [
+    {
+     "src": "/products/odorizant-wc-super-wash-lemon-2-x-50-g.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant WC",
+   "brand": "Super Wash",
+   "variant": "Ocean",
+   "category": "odorizant-wc",
+   "size": "2 x 50 g",
+   "washes": null,
+   "barcode": "704384783329",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 16,
+    "randPal": 9,
+    "baxPal": 144
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 6
+   },
+   "name": "Odorizant WC Super Wash Ocean",
+   "family": "Odorizant WC Super Wash",
+   "slug": "odorizant-wc-super-wash-ocean-2-x-50-g",
+   "images": [
+    {
+     "src": "/products/odorizant-wc-super-wash-ocean-2-x-50-g.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant WC",
+   "brand": "Super Wash",
+   "variant": "Lemon",
+   "category": "odorizant-wc",
+   "size": "4 x 50 g",
+   "washes": null,
+   "barcode": "704384783312",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 14,
+    "randPal": 7,
+    "baxPal": 98
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 6
+   },
+   "name": "Odorizant WC Super Wash Lemon",
+   "family": "Odorizant WC Super Wash",
+   "slug": "odorizant-wc-super-wash-lemon-4-x-50-g",
+   "images": [
+    {
+     "src": "/products/odorizant-wc-super-wash-lemon-4-x-50-g.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant WC",
+   "brand": "Super Wash",
+   "variant": "Ocean",
+   "category": "odorizant-wc",
+   "size": "4 x 50 g",
+   "washes": null,
+   "barcode": "704384783237",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 14,
+    "randPal": 7,
+    "baxPal": 98
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 6
+   },
+   "name": "Odorizant WC Super Wash Ocean",
+   "family": "Odorizant WC Super Wash",
+   "slug": "odorizant-wc-super-wash-ocean-4-x-50-g",
+   "images": [
+    {
+     "src": "/products/odorizant-wc-super-wash-ocean-4-x-50-g.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Moon",
+   "variant": "Cherry",
+   "category": "difuzoare-betisoare",
+   "size": "100 ml",
+   "washes": null,
+   "barcode": "675121731784",
+   "packaging": {
+    "bucBax": 20,
+    "baxRand": 10,
+    "randPal": 8,
+    "baxPal": 80
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 6
+   },
+   "name": "Difuzor cu bețișoare Moon Cherry",
+   "family": "Difuzor cu bețișoare Moon",
+   "slug": "difuzor-cu-betisoare-moon-cherry-100-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-moon-cherry-100-ml.webp",
+     "px": 1014,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Moon",
+   "variant": "Green Tea",
+   "category": "difuzoare-betisoare",
+   "size": "100 ml",
+   "washes": null,
+   "barcode": "675121731814",
+   "packaging": {
+    "bucBax": 20,
+    "baxRand": 10,
+    "randPal": 8,
+    "baxPal": 80
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 6
+   },
+   "name": "Difuzor cu bețișoare Moon Green Tea",
+   "family": "Difuzor cu bețișoare Moon",
+   "slug": "difuzor-cu-betisoare-moon-green-tea-100-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-moon-green-tea-100-ml.webp",
+     "px": 1012,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Moon",
+   "variant": "Lavender",
+   "category": "difuzoare-betisoare",
+   "size": "100 ml",
+   "washes": null,
+   "barcode": "675121731791",
+   "packaging": {
+    "bucBax": 20,
+    "baxRand": 10,
+    "randPal": 8,
+    "baxPal": 80
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 6
+   },
+   "name": "Difuzor cu bețișoare Moon Lavender",
+   "family": "Difuzor cu bețișoare Moon",
+   "slug": "difuzor-cu-betisoare-moon-lavender-100-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-moon-lavender-100-ml.webp",
+     "px": 1012,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Moon",
+   "variant": "Mango",
+   "category": "difuzoare-betisoare",
+   "size": "100 ml",
+   "washes": null,
+   "barcode": "6751217318070",
+   "packaging": {
+    "bucBax": 20,
+    "baxRand": 10,
+    "randPal": 8,
+    "baxPal": 80
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 6
+   },
+   "name": "Difuzor cu bețișoare Moon Mango",
+   "family": "Difuzor cu bețișoare Moon",
+   "slug": "difuzor-cu-betisoare-moon-mango-100-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-moon-mango-100-ml.webp",
+     "px": 1013,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Moon",
+   "variant": "Orange",
+   "category": "difuzoare-betisoare",
+   "size": "100 ml",
+   "washes": null,
+   "barcode": "675121731760",
+   "packaging": {
+    "bucBax": 20,
+    "baxRand": 10,
+    "randPal": 8,
+    "baxPal": 80
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 7
+   },
+   "name": "Difuzor cu bețișoare Moon Orange",
+   "family": "Difuzor cu bețișoare Moon",
+   "slug": "difuzor-cu-betisoare-moon-orange-100-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-moon-orange-100-ml.webp",
+     "px": 1012,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Moon",
+   "variant": "Vanilla",
+   "category": "difuzoare-betisoare",
+   "size": "100 ml",
+   "washes": null,
+   "barcode": "675121731777",
+   "packaging": {
+    "bucBax": 20,
+    "baxRand": 10,
+    "randPal": 8,
+    "baxPal": 80
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 7
+   },
+   "name": "Difuzor cu bețișoare Moon Vanilla",
+   "family": "Difuzor cu bețișoare Moon",
+   "slug": "difuzor-cu-betisoare-moon-vanilla-100-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-moon-vanilla-100-ml.webp",
+     "px": 1012,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant de cameră spray",
+   "brand": "Golf",
+   "variant": "Aqua Orchid",
+   "category": "odorizant-camera",
+   "size": "260 ml",
+   "washes": null,
+   "barcode": "8697405600564",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 16,
+    "randPal": 10,
+    "baxPal": 160
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 7
+   },
+   "name": "Odorizant de cameră spray Golf Aqua Orchid",
+   "family": "Odorizant de cameră spray Golf",
+   "slug": "odorizant-de-camera-spray-golf-aqua-orchid-260-ml",
+   "images": [
+    {
+     "src": "/products/odorizant-de-camera-spray-golf-aqua-orchid-260-ml.webp",
+     "px": 939,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant de cameră spray",
+   "brand": "Golf",
+   "variant": "Cashmere",
+   "category": "odorizant-camera",
+   "size": "260 ml",
+   "washes": null,
+   "barcode": "8697405600649",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 16,
+    "randPal": 10,
+    "baxPal": 160
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 7
+   },
+   "name": "Odorizant de cameră spray Golf Cashmere",
+   "family": "Odorizant de cameră spray Golf",
+   "slug": "odorizant-de-camera-spray-golf-cashmere-260-ml",
+   "images": [
+    {
+     "src": "/products/odorizant-de-camera-spray-golf-cashmere-260-ml.webp",
+     "px": 954,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant de cameră spray",
+   "brand": "Golf",
+   "variant": "Lavender",
+   "category": "odorizant-camera",
+   "size": "260 ml",
+   "washes": null,
+   "barcode": "8697405605187",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 16,
+    "randPal": 10,
+    "baxPal": 160
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 7
+   },
+   "name": "Odorizant de cameră spray Golf Lavender",
+   "family": "Odorizant de cameră spray Golf",
+   "slug": "odorizant-de-camera-spray-golf-lavender-260-ml",
+   "images": [
+    {
+     "src": "/products/odorizant-de-camera-spray-golf-lavender-260-ml.webp",
+     "px": 970,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant de cameră spray",
+   "brand": "Golf",
+   "variant": "Ocean",
+   "category": "odorizant-camera",
+   "size": "260 ml",
+   "washes": null,
+   "barcode": "8697405600922",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 16,
+    "randPal": 10,
+    "baxPal": 160
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 7
+   },
+   "name": "Odorizant de cameră spray Golf Ocean",
+   "family": "Odorizant de cameră spray Golf",
+   "slug": "odorizant-de-camera-spray-golf-ocean-260-ml",
+   "images": [
+    {
+     "src": "/products/odorizant-de-camera-spray-golf-ocean-260-ml.webp",
+     "px": 972,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant de cameră spray",
+   "brand": "Golf",
+   "variant": "Cashmere",
+   "category": "odorizant-camera",
+   "size": "300 ml",
+   "washes": null,
+   "barcode": "8697405600526",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 7
+   },
+   "name": "Odorizant de cameră spray Golf Cashmere",
+   "family": "Odorizant de cameră spray Golf",
+   "slug": "odorizant-de-camera-spray-golf-cashmere-300-ml",
+   "images": [
+    {
+     "src": "/products/odorizant-de-camera-spray-golf-cashmere-300-ml.webp",
+     "px": 1027,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant de cameră spray",
+   "brand": "Golf",
+   "variant": "Fruit Bomb",
+   "category": "odorizant-camera",
+   "size": "300 ml",
+   "washes": null,
+   "barcode": "8684362000957",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 7
+   },
+   "name": "Odorizant de cameră spray Golf Fruit Bomb",
+   "family": "Odorizant de cameră spray Golf",
+   "slug": "odorizant-de-camera-spray-golf-fruit-bomb-300-ml",
+   "images": [
+    {
+     "src": "/products/odorizant-de-camera-spray-golf-fruit-bomb-300-ml.webp",
+     "px": 979,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant de cameră spray",
+   "brand": "Golf",
+   "variant": "Lavender",
+   "category": "odorizant-camera",
+   "size": "300 ml",
+   "washes": null,
+   "barcode": "868436200177",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 7
+   },
+   "name": "Odorizant de cameră spray Golf Lavender",
+   "family": "Odorizant de cameră spray Golf",
+   "slug": "odorizant-de-camera-spray-golf-lavender-300-ml",
+   "images": [
+    {
+     "src": "/products/odorizant-de-camera-spray-golf-lavender-300-ml.webp",
+     "px": 959,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant de cameră spray",
+   "brand": "Golf",
+   "variant": "Ocean",
+   "category": "odorizant-camera",
+   "size": "300 ml",
+   "washes": null,
+   "barcode": "8684362001084",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 8
+   },
+   "name": "Odorizant de cameră spray Golf Ocean",
+   "family": "Odorizant de cameră spray Golf",
+   "slug": "odorizant-de-camera-spray-golf-ocean-300-ml",
+   "images": [
+    {
+     "src": "/products/odorizant-de-camera-spray-golf-ocean-300-ml.webp",
+     "px": 984,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant de cameră spray",
+   "brand": "Golf",
+   "variant": "Cherry Blossom",
+   "category": "odorizant-camera",
+   "size": "400 ml",
+   "washes": null,
+   "barcode": "8684362002180",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 19,
+    "randPal": 5,
+    "baxPal": 95
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 8
+   },
+   "name": "Odorizant de cameră spray Golf Cherry Blossom",
+   "family": "Odorizant de cameră spray Golf",
+   "slug": "odorizant-de-camera-spray-golf-cherry-blossom-400-ml",
+   "images": [
+    {
+     "src": "/products/odorizant-de-camera-spray-golf-cherry-blossom-400-ml.webp",
+     "px": 637,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant de cameră spray",
+   "brand": "Golf",
+   "variant": "Floral Amber",
+   "category": "odorizant-camera",
+   "size": "400 ml",
+   "washes": null,
+   "barcode": "8684362002197",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 19,
+    "randPal": 5,
+    "baxPal": 95
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 8
+   },
+   "name": "Odorizant de cameră spray Golf Floral Amber",
+   "family": "Odorizant de cameră spray Golf",
+   "slug": "odorizant-de-camera-spray-golf-floral-amber-400-ml",
+   "images": [
+    {
+     "src": "/products/odorizant-de-camera-spray-golf-floral-amber-400-ml.webp",
+     "px": 637,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant de cameră spray",
+   "brand": "Golf",
+   "variant": "Green Tea & Bergamot",
+   "category": "odorizant-camera",
+   "size": "400 ml",
+   "washes": null,
+   "barcode": "8684362002166",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 19,
+    "randPal": 5,
+    "baxPal": 95
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 8
+   },
+   "name": "Odorizant de cameră spray Golf Green Tea & Bergamot",
+   "family": "Odorizant de cameră spray Golf",
+   "slug": "odorizant-de-camera-spray-golf-green-tea-bergamot-400-ml",
+   "images": [
+    {
+     "src": "/products/odorizant-de-camera-spray-golf-green-tea-bergamot-400-ml.webp",
+     "px": 639,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Odorizant de cameră spray",
+   "brand": "Golf",
+   "variant": "Powder Musk",
+   "category": "odorizant-camera",
+   "size": "400 ml",
+   "washes": null,
+   "barcode": "8684362002173",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 19,
+    "randPal": 5,
+    "baxPal": 95
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 8
+   },
+   "name": "Odorizant de cameră spray Golf Powder Musk",
+   "family": "Odorizant de cameră spray Golf",
+   "slug": "odorizant-de-camera-spray-golf-powder-musk-400-ml",
+   "images": [
+    {
+     "src": "/products/odorizant-de-camera-spray-golf-powder-musk-400-ml.webp",
+     "px": 639,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Golf",
+   "variant": "Lilac",
+   "category": "difuzoare-betisoare",
+   "size": "110 ml",
+   "washes": null,
+   "barcode": "8697405607846",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 8
+   },
+   "name": "Difuzor cu bețișoare Golf Lilac",
+   "family": "Difuzor cu bețișoare Golf",
+   "slug": "difuzor-cu-betisoare-golf-lilac-110-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-golf-lilac-110-ml.webp",
+     "px": 1004,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Golf",
+   "variant": "Black Angel",
+   "category": "difuzoare-betisoare",
+   "size": "110 ml",
+   "washes": null,
+   "barcode": "8697405607877",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 8
+   },
+   "name": "Difuzor cu bețișoare Golf Black Angel",
+   "family": "Difuzor cu bețișoare Golf",
+   "slug": "difuzor-cu-betisoare-golf-black-angel-110-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-golf-black-angel-110-ml.webp",
+     "px": 829,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Golf",
+   "variant": "Mure",
+   "category": "difuzoare-betisoare",
+   "size": "110 ml",
+   "washes": null,
+   "barcode": "8697405607822",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 8
+   },
+   "name": "Difuzor cu bețișoare Golf Mure",
+   "family": "Difuzor cu bețișoare Golf",
+   "slug": "difuzor-cu-betisoare-golf-mure-110-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-golf-mure-110-ml.webp",
+     "px": 1002,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Golf",
+   "variant": "Visul Bosforului",
+   "category": "difuzoare-betisoare",
+   "size": "110 ml",
+   "washes": null,
+   "barcode": "8697405607723",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 8
+   },
+   "name": "Difuzor cu bețișoare Golf Visul Bosforului",
+   "family": "Difuzor cu bețișoare Golf",
+   "slug": "difuzor-cu-betisoare-golf-visul-bosforului-110-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-golf-visul-bosforului-110-ml.webp",
+     "px": 1001,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Golf",
+   "variant": "Flori de cireș",
+   "category": "difuzoare-betisoare",
+   "size": "110 ml",
+   "washes": null,
+   "barcode": "8697405607716",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 9
+   },
+   "name": "Difuzor cu bețișoare Golf Flori de cireș",
+   "family": "Difuzor cu bețișoare Golf",
+   "slug": "difuzor-cu-betisoare-golf-flori-de-cires-110-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-golf-flori-de-cires-110-ml.webp",
+     "px": 978,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Golf",
+   "variant": "Angel",
+   "category": "difuzoare-betisoare",
+   "size": "110 ml",
+   "washes": null,
+   "barcode": "8697405607914",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 9
+   },
+   "name": "Difuzor cu bețișoare Golf Angel",
+   "family": "Difuzor cu bețișoare Golf",
+   "slug": "difuzor-cu-betisoare-golf-angel-110-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-golf-angel-110-ml.webp",
+     "px": 1020,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Golf",
+   "variant": "Lavandă",
+   "category": "difuzoare-betisoare",
+   "size": "110 ml",
+   "washes": null,
+   "barcode": "8697405607808",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 9
+   },
+   "name": "Difuzor cu bețișoare Golf Lavandă",
+   "family": "Difuzor cu bețișoare Golf",
+   "slug": "difuzor-cu-betisoare-golf-lavanda-110-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-golf-lavanda-110-ml.webp",
+     "px": 1014,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Golf",
+   "variant": "Ocean",
+   "category": "difuzoare-betisoare",
+   "size": "110 ml",
+   "washes": null,
+   "barcode": "8697405607785",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 9
+   },
+   "name": "Difuzor cu bețișoare Golf Ocean",
+   "family": "Difuzor cu bețișoare Golf",
+   "slug": "difuzor-cu-betisoare-golf-ocean-110-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-golf-ocean-110-ml.webp",
+     "px": 1004,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Golf",
+   "variant": "Gumă",
+   "category": "difuzoare-betisoare",
+   "size": "110 ml",
+   "washes": null,
+   "barcode": "8697405607884",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 9
+   },
+   "name": "Difuzor cu bețișoare Golf Gumă",
+   "family": "Difuzor cu bețișoare Golf",
+   "slug": "difuzor-cu-betisoare-golf-guma-110-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-golf-guma-110-ml.webp",
+     "px": 1021,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Golf",
+   "variant": "Crin alb",
+   "category": "difuzoare-betisoare",
+   "size": "110 ml",
+   "washes": null,
+   "barcode": "8697405607839",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 9
+   },
+   "name": "Difuzor cu bețișoare Golf Crin alb",
+   "family": "Difuzor cu bețișoare Golf",
+   "slug": "difuzor-cu-betisoare-golf-crin-alb-110-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-golf-crin-alb-110-ml.webp",
+     "px": 988,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Golf",
+   "variant": "Pepene",
+   "category": "difuzoare-betisoare",
+   "size": "110 ml",
+   "washes": null,
+   "barcode": "8697405607891",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 9
+   },
+   "name": "Difuzor cu bețișoare Golf Pepene",
+   "family": "Difuzor cu bețișoare Golf",
+   "slug": "difuzor-cu-betisoare-golf-pepene-110-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-golf-pepene-110-ml.webp",
+     "px": 1025,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Golf",
+   "variant": "Mango",
+   "category": "difuzoare-betisoare",
+   "size": "110 ml",
+   "washes": null,
+   "barcode": "8697405607921",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 9
+   },
+   "name": "Difuzor cu bețișoare Golf Mango",
+   "family": "Difuzor cu bețișoare Golf",
+   "slug": "difuzor-cu-betisoare-golf-mango-110-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-golf-mango-110-ml.webp",
+     "px": 1002,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Difuzor cu bețișoare",
+   "brand": "Golf",
+   "variant": "White Soap",
+   "category": "difuzoare-betisoare",
+   "size": "110 ml",
+   "washes": null,
+   "barcode": "8697405607792",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 24,
+    "randPal": 5,
+    "baxPal": 120
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 9
+   },
+   "name": "Difuzor cu bețișoare Golf White Soap",
+   "family": "Difuzor cu bețișoare Golf",
+   "slug": "difuzor-cu-betisoare-golf-white-soap-110-ml",
+   "images": [
+    {
+     "src": "/products/difuzor-cu-betisoare-golf-white-soap-110-ml.webp",
+     "px": 1036,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Mop și găleată cu pedală",
+   "brand": null,
+   "variant": null,
+   "category": "mopuri-galeti",
+   "size": "18 L",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 1,
+    "baxRand": 6,
+    "randPal": 6,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 10
+   },
+   "name": "Mop și găleată cu pedală",
+   "family": "Mop și găleată cu pedală",
+   "slug": "mop-si-galeata-cu-pedala-18-l",
+   "images": [
+    {
+     "src": "/products/mop-si-galeata-cu-pedala-18-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Mop rotativ și găleată",
+   "brand": null,
+   "variant": null,
+   "category": "mopuri-galeti",
+   "size": "14 L",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 1,
+    "baxRand": null,
+    "randPal": null,
+    "baxPal": 52
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 10
+   },
+   "name": "Mop rotativ și găleată",
+   "family": "Mop rotativ și găleată",
+   "slug": "mop-rotativ-si-galeata-14-l",
+   "images": [
+    {
+     "src": "/products/mop-rotativ-si-galeata-14-l.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Mop plat și găleată",
+   "brand": null,
+   "variant": "Trio Power",
+   "category": "mopuri-galeti",
+   "size": null,
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 1,
+    "baxRand": 10,
+    "randPal": 5,
+    "baxPal": 50
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 10
+   },
+   "name": "Mop plat și găleată Trio Power",
+   "family": "Mop plat și găleată",
+   "slug": "mop-plat-si-galeata-trio-power",
+   "images": [
+    {
+     "src": "/products/mop-plat-si-galeata-trio-power.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Mop și găleată",
+   "brand": null,
+   "variant": "Pro Flat",
+   "category": "mopuri-galeti",
+   "size": null,
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 1,
+    "baxRand": 20,
+    "randPal": 4,
+    "baxPal": 80
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 10
+   },
+   "name": "Mop și găleată Pro Flat",
+   "family": "Mop și găleată",
+   "slug": "mop-si-galeata-pro-flat",
+   "images": [
+    {
+     "src": "/products/mop-si-galeata-pro-flat.webp",
+     "px": 1179,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Mop Easy Click",
+   "brand": null,
+   "variant": "Verde",
+   "category": "mopuri-galeti",
+   "size": null,
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 10,
+    "randPal": 3,
+    "baxPal": 30
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 10
+   },
+   "name": "Mop Easy Click Verde",
+   "family": "Mop Easy Click",
+   "slug": "mop-easy-click-verde",
+   "images": [
+    {
+     "src": "/products/mop-easy-click-verde.webp",
+     "px": 1189,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Dispozitiv 3 în 1 pentru geamuri: pulverizator, lavetă microfibră și racletă",
+   "brand": null,
+   "variant": null,
+   "category": "accesorii-curatenie",
+   "size": null,
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 4,
+    "baxRand": 9,
+    "randPal": 8,
+    "baxPal": 72
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 10
+   },
+   "name": "Dispozitiv 3 în 1 pentru geamuri: pulverizator, lavetă microfibră și racletă",
+   "family": "Dispozitiv 3 în 1 pentru geamuri: pulverizator, lavetă microfibră și racletă",
+   "slug": "dispozitiv-3-in-1-pentru-geamuri-pulverizator-laveta-microfibra-si-racleta",
+   "images": [
+    {
+     "src": "/products/dispozitiv-3-in-1-pentru-geamuri-pulverizator-laveta-microfibra-si-racleta.webp",
+     "px": 924,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Mop Lime pentru curățarea pardoselilor",
+   "brand": "Lime",
+   "variant": "Mov",
+   "category": "mopuri-galeti",
+   "size": null,
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 8,
+    "randPal": 5,
+    "baxPal": 40
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 10
+   },
+   "name": "Mop Lime pentru curățarea pardoselilor Mov",
+   "family": "Mop Lime pentru curățarea pardoselilor Lime",
+   "slug": "mop-lime-pentru-curatarea-pardoselilor-mov",
+   "images": [
+    {
+     "src": "/products/mop-lime-pentru-curatarea-pardoselilor-mov.webp",
+     "px": 1111,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Șervețele Lime pentru pardoseli cu oțet și bicarbonat",
+   "brand": "Lime",
+   "variant": "4XL",
+   "category": "servetele-umede",
+   "size": "50 buc",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 6,
+    "randPal": 5,
+    "baxPal": 30
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 10
+   },
+   "name": "Șervețele Lime pentru pardoseli cu oțet și bicarbonat 4XL",
+   "family": "Șervețele Lime pentru pardoseli cu oțet și bicarbonat Lime",
+   "slug": "servetele-lime-pentru-pardoseli-cu-otet-si-bicarbonat-4xl-50-buc",
+   "images": [
+    {
+     "src": "/products/servetele-lime-pentru-pardoseli-cu-otet-si-bicarbonat-4xl-50-buc.webp",
+     "px": 498
+    },
+    {
+     "src": "/products/servetele-lime-pentru-pardoseli-cu-otet-si-bicarbonat-4xl-50-buc-2.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Șervețele umede vegane",
+   "brand": "Fibril",
+   "variant": "Mystic Cedar Tree",
+   "category": "servetele-umede",
+   "size": "90 buc",
+   "washes": null,
+   "barcode": "8682151003462",
+   "packaging": {
+    "bucBax": 24,
+    "baxRand": 8,
+    "randPal": 6,
+    "baxPal": 48
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 11
+   },
+   "name": "Șervețele umede vegane Fibril Mystic Cedar Tree",
+   "family": "Șervețele umede vegane Fibril",
+   "slug": "servetele-umede-vegane-fibril-mystic-cedar-tree-90-buc",
+   "images": [
+    {
+     "src": "/products/servetele-umede-vegane-fibril-mystic-cedar-tree-90-buc.webp",
+     "px": 1086,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Șervețele umede vegane",
+   "brand": "Fibril",
+   "variant": "Mango",
+   "category": "servetele-umede",
+   "size": "90 buc",
+   "washes": null,
+   "barcode": "8682151003455",
+   "packaging": {
+    "bucBax": 24,
+    "baxRand": 8,
+    "randPal": 6,
+    "baxPal": 48
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 11
+   },
+   "name": "Șervețele umede vegane Fibril Mango",
+   "family": "Șervețele umede vegane Fibril",
+   "slug": "servetele-umede-vegane-fibril-mango-90-buc",
+   "images": [
+    {
+     "src": "/products/servetele-umede-vegane-fibril-mango-90-buc.webp",
+     "px": 817
+    }
+   ]
+  },
+  {
+   "type": "Șervețele umede vegane",
+   "brand": "Fibril",
+   "variant": "Olive Oil Baby",
+   "category": "servetele-umede",
+   "size": "90 buc",
+   "washes": null,
+   "barcode": "8682151003486",
+   "packaging": {
+    "bucBax": 24,
+    "baxRand": 8,
+    "randPal": 6,
+    "baxPal": 48
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 11
+   },
+   "name": "Șervețele umede vegane Fibril Olive Oil Baby",
+   "family": "Șervețele umede vegane Fibril",
+   "slug": "servetele-umede-vegane-fibril-olive-oil-baby-90-buc",
+   "images": [
+    {
+     "src": "/products/servetele-umede-vegane-fibril-olive-oil-baby-90-buc.webp",
+     "px": 1084,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Șervețele umede",
+   "brand": "Fibril",
+   "variant": "Purple",
+   "category": "servetele-umede",
+   "size": "72 buc",
+   "washes": null,
+   "barcode": "8682151003073",
+   "packaging": {
+    "bucBax": 30,
+    "baxRand": 8,
+    "randPal": 6,
+    "baxPal": 48
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 11
+   },
+   "name": "Șervețele umede Fibril Purple",
+   "family": "Șervețele umede Fibril",
+   "slug": "servetele-umede-fibril-purple-72-buc",
+   "images": [
+    {
+     "src": "/products/servetele-umede-fibril-purple-72-buc.webp",
+     "px": 451
+    }
+   ]
+  },
+  {
+   "type": "Șervețele umede",
+   "brand": "Fibril",
+   "variant": "Baby",
+   "category": "servetele-umede",
+   "size": "72 buc",
+   "washes": null,
+   "barcode": "8682151003080",
+   "packaging": {
+    "bucBax": 30,
+    "baxRand": 8,
+    "randPal": 6,
+    "baxPal": 48
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 11
+   },
+   "name": "Șervețele umede Fibril Baby",
+   "family": "Șervețele umede Fibril",
+   "slug": "servetele-umede-fibril-baby-72-buc",
+   "images": [
+    {
+     "src": "/products/servetele-umede-fibril-baby-72-buc.webp",
+     "px": 511
+    }
+   ]
+  },
+  {
+   "type": "Șervețele umede",
+   "brand": "Fibril",
+   "variant": "Roze",
+   "category": "servetele-umede",
+   "size": "120 buc",
+   "washes": null,
+   "barcode": "8682151000249",
+   "packaging": {
+    "bucBax": 18,
+    "baxRand": 8,
+    "randPal": 6,
+    "baxPal": 48
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 11
+   },
+   "name": "Șervețele umede Fibril Roze",
+   "family": "Șervețele umede Fibril",
+   "slug": "servetele-umede-fibril-roze-120-buc",
+   "images": [
+    {
+     "src": "/products/servetele-umede-fibril-roze-120-buc.webp",
+     "px": 691,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Șervețele umede",
+   "brand": "Fibril",
+   "variant": "Lavandă",
+   "category": "servetele-umede",
+   "size": "120 buc",
+   "washes": null,
+   "barcode": "8682151000300",
+   "packaging": {
+    "bucBax": 18,
+    "baxRand": 8,
+    "randPal": 6,
+    "baxPal": 48
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 11
+   },
+   "name": "Șervețele umede Fibril Lavandă",
+   "family": "Șervețele umede Fibril",
+   "slug": "servetele-umede-fibril-lavanda-120-buc",
+   "images": [
+    {
+     "src": "/products/servetele-umede-fibril-lavanda-120-buc.webp",
+     "px": 696,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Șervețele pentru suprafețe cu oțet și bicarbonat",
+   "brand": "Fibril",
+   "variant": "Green",
+   "category": "servetele-umede",
+   "size": "100 buc",
+   "washes": null,
+   "barcode": "8682151003356",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 6,
+    "randPal": 6,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 11
+   },
+   "name": "Șervețele pentru suprafețe cu oțet și bicarbonat Fibril Green",
+   "family": "Șervețele pentru suprafețe cu oțet și bicarbonat Fibril",
+   "slug": "servetele-pentru-suprafete-cu-otet-si-bicarbonat-fibril-green-100-buc",
+   "images": [
+    {
+     "src": "/products/servetele-pentru-suprafete-cu-otet-si-bicarbonat-fibril-green-100-buc.webp",
+     "px": 959
+    }
+   ]
+  },
+  {
+   "type": "Șervețele pentru suprafețe cu oțet și bicarbonat",
+   "brand": "Fibril",
+   "variant": "Blue",
+   "category": "servetele-umede",
+   "size": "100 buc",
+   "washes": null,
+   "barcode": "8682151003363",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 6,
+    "randPal": 6,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 11
+   },
+   "name": "Șervețele pentru suprafețe cu oțet și bicarbonat Fibril Blue",
+   "family": "Șervețele pentru suprafețe cu oțet și bicarbonat Fibril",
+   "slug": "servetele-pentru-suprafete-cu-otet-si-bicarbonat-fibril-blue-100-buc",
+   "images": [
+    {
+     "src": "/products/servetele-pentru-suprafete-cu-otet-si-bicarbonat-fibril-blue-100-buc.webp",
+     "px": 959
+    }
+   ]
+  },
+  {
+   "type": "Șervețele pentru suprafețe cu oțet și bicarbonat Premium",
+   "brand": "Fibril",
+   "variant": "Green",
+   "category": "servetele-umede",
+   "size": "100 buc",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 6,
+    "randPal": 6,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 12
+   },
+   "name": "Șervețele pentru suprafețe cu oțet și bicarbonat Premium Fibril Green",
+   "family": "Șervețele pentru suprafețe cu oțet și bicarbonat Premium Fibril",
+   "slug": "servetele-pentru-suprafete-cu-otet-si-bicarbonat-premium-fibril-green-100-buc",
+   "images": [
+    {
+     "src": "/products/servetele-pentru-suprafete-cu-otet-si-bicarbonat-premium-fibril-green-100-buc.webp",
+     "px": 429
+    }
+   ]
+  },
+  {
+   "type": "Șervețele pentru suprafețe cu oțet și bicarbonat Premium",
+   "brand": "Fibril",
+   "variant": "Blue",
+   "category": "servetele-umede",
+   "size": "100 buc",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 6,
+    "randPal": 6,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 12
+   },
+   "name": "Șervețele pentru suprafețe cu oțet și bicarbonat Premium Fibril Blue",
+   "family": "Șervețele pentru suprafețe cu oțet și bicarbonat Premium Fibril",
+   "slug": "servetele-pentru-suprafete-cu-otet-si-bicarbonat-premium-fibril-blue-100-buc",
+   "images": [
+    {
+     "src": "/products/servetele-pentru-suprafete-cu-otet-si-bicarbonat-premium-fibril-blue-100-buc.webp",
+     "px": 429
+    }
+   ]
+  },
+  {
+   "type": "Șervețele pentru suprafețe XL",
+   "brand": "Fibril",
+   "variant": "Green",
+   "category": "servetele-umede",
+   "size": "100 buc",
+   "washes": null,
+   "barcode": "8682151001468",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 6,
+    "randPal": 6,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 12
+   },
+   "name": "Șervețele pentru suprafețe XL Fibril Green",
+   "family": "Șervețele pentru suprafețe XL Fibril",
+   "slug": "servetele-pentru-suprafete-xl-fibril-green-100-buc",
+   "images": [
+    {
+     "src": "/products/servetele-pentru-suprafete-xl-fibril-green-100-buc.webp",
+     "px": 640,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Șervețele pentru suprafețe XL",
+   "brand": "Fibril",
+   "variant": "Blue",
+   "category": "servetele-umede",
+   "size": "100 buc",
+   "washes": null,
+   "barcode": "8682151001451",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 6,
+    "randPal": 6,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 12
+   },
+   "name": "Șervețele pentru suprafețe XL Fibril Blue",
+   "family": "Șervețele pentru suprafețe XL Fibril",
+   "slug": "servetele-pentru-suprafete-xl-fibril-blue-100-buc",
+   "images": [
+    {
+     "src": "/products/servetele-pentru-suprafete-xl-fibril-blue-100-buc.webp",
+     "px": 1135,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Easy Mop",
+   "brand": "Fibril",
+   "variant": null,
+   "category": "accesorii-curatenie",
+   "size": null,
+   "washes": null,
+   "barcode": "8682151002120",
+   "packaging": {
+    "bucBax": 12,
+    "baxRand": 6,
+    "randPal": 6,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 12
+   },
+   "name": "Easy Mop Fibril",
+   "family": "Easy Mop Fibril",
+   "slug": "easy-mop-fibril",
+   "images": [
+    {
+     "src": "/products/easy-mop-fibril.webp",
+     "px": 891,
+     "opaque": true
+    },
+    {
+     "src": "/products/easy-mop-fibril-2.webp",
+     "px": 921,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Fito-săpun intim cu ulei de măsline și floare de tei",
+   "brand": null,
+   "variant": null,
+   "category": "sapun-lichid",
+   "size": "400 ml",
+   "washes": null,
+   "barcode": "4820074621781",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 10,
+    "randPal": 7,
+    "baxPal": 70
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 12
+   },
+   "name": "Fito-săpun intim cu ulei de măsline și floare de tei",
+   "family": "Fito-săpun intim cu ulei de măsline și floare de tei",
+   "slug": "fito-sapun-intim-cu-ulei-de-masline-si-floare-de-tei-400-ml",
+   "images": [
+    {
+     "src": "/products/fito-sapun-intim-cu-ulei-de-masline-si-floare-de-tei-400-ml.webp",
+     "px": 803
+    }
+   ]
+  },
+  {
+   "type": "Săpun cremă cu extract de cocos",
+   "brand": "Tasty Secrets",
+   "variant": null,
+   "category": "sapun-lichid",
+   "size": "500 ml",
+   "washes": null,
+   "barcode": "4820074624980",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 10,
+    "randPal": 7,
+    "baxPal": 70
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 12
+   },
+   "name": "Săpun cremă Tasty Secrets cu extract de cocos",
+   "family": "Săpun cremă cu extract de cocos Tasty Secrets",
+   "slug": "sapun-crema-tasty-secrets-cu-extract-de-cocos-500-ml",
+   "images": [
+    {
+     "src": "/products/sapun-crema-tasty-secrets-cu-extract-de-cocos-500-ml.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Săpun cremă cu extract de lime",
+   "brand": "Tasty Secrets",
+   "variant": null,
+   "category": "sapun-lichid",
+   "size": "500 ml",
+   "washes": null,
+   "barcode": "4823080004531",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 10,
+    "randPal": 7,
+    "baxPal": 70
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 13
+   },
+   "name": "Săpun cremă Tasty Secrets cu extract de lime",
+   "family": "Săpun cremă cu extract de lime Tasty Secrets",
+   "slug": "sapun-crema-tasty-secrets-cu-extract-de-lime-500-ml",
+   "images": [
+    {
+     "src": "/products/sapun-crema-tasty-secrets-cu-extract-de-lime-500-ml.webp",
+     "px": 1143,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Săpun cremă hrănitor cu extract de pere",
+   "brand": "Tasty Secrets",
+   "variant": null,
+   "category": "sapun-lichid",
+   "size": "500 ml",
+   "washes": null,
+   "barcode": "4820074623303",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 10,
+    "randPal": 7,
+    "baxPal": 70
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 13
+   },
+   "name": "Săpun cremă hrănitor Tasty Secrets cu extract de pere",
+   "family": "Săpun cremă hrănitor cu extract de pere Tasty Secrets",
+   "slug": "sapun-crema-hranitor-tasty-secrets-cu-extract-de-pere-500-ml",
+   "images": [
+    {
+     "src": "/products/sapun-crema-hranitor-tasty-secrets-cu-extract-de-pere-500-ml.webp",
+     "px": 1171,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Săpun cremă hrănitor cu extract de pepene galben",
+   "brand": null,
+   "variant": null,
+   "category": "sapun-lichid",
+   "size": "500 ml",
+   "washes": null,
+   "barcode": "4820074623297",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 10,
+    "randPal": 7,
+    "baxPal": 70
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 13
+   },
+   "name": "Săpun cremă hrănitor cu extract de pepene galben",
+   "family": "Săpun cremă hrănitor cu extract de pepene galben",
+   "slug": "sapun-crema-hranitor-cu-extract-de-pepene-galben-500-ml",
+   "images": [
+    {
+     "src": "/products/sapun-crema-hranitor-cu-extract-de-pepene-galben-500-ml.webp",
+     "px": 1172,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Săpun cremă pentru piele sensibilă cu extract de măr, pH 5,5",
+   "brand": null,
+   "variant": null,
+   "category": "sapun-lichid",
+   "size": "500 ml",
+   "washes": null,
+   "barcode": "4820074623266",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 10,
+    "randPal": 7,
+    "baxPal": 70
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 13
+   },
+   "name": "Săpun cremă pentru piele sensibilă cu extract de măr, pH 5,5",
+   "family": "Săpun cremă pentru piele sensibilă cu extract de măr, pH 5,5",
+   "slug": "sapun-crema-pentru-piele-sensibila-cu-extract-de-mar-ph-5-5-500-ml",
+   "images": [
+    {
+     "src": "/products/sapun-crema-pentru-piele-sensibila-cu-extract-de-mar-ph-5-5-500-ml.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Săpun gel cu extract de ananas",
+   "brand": "Tasty Secrets",
+   "variant": null,
+   "category": "sapun-lichid",
+   "size": "500 ml",
+   "washes": null,
+   "barcode": "4823080006474",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 10,
+    "randPal": 7,
+    "baxPal": 70
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 13
+   },
+   "name": "Săpun gel Tasty Secrets cu extract de ananas",
+   "family": "Săpun gel cu extract de ananas Tasty Secrets",
+   "slug": "sapun-gel-tasty-secrets-cu-extract-de-ananas-500-ml",
+   "images": [
+    {
+     "src": "/products/sapun-gel-tasty-secrets-cu-extract-de-ananas-500-ml.webp",
+     "px": 1156,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Săpun gel cu extract de grapefruit",
+   "brand": null,
+   "variant": null,
+   "category": "sapun-lichid",
+   "size": "500 ml",
+   "washes": null,
+   "barcode": "4820074623280",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 10,
+    "randPal": 7,
+    "baxPal": 70
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 13
+   },
+   "name": "Săpun gel cu extract de grapefruit",
+   "family": "Săpun gel cu extract de grapefruit",
+   "slug": "sapun-gel-cu-extract-de-grapefruit-500-ml",
+   "images": [
+    {
+     "src": "/products/sapun-gel-cu-extract-de-grapefruit-500-ml.webp",
+     "px": 1142,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Săpun gel cu extract de rodie",
+   "brand": "Tasty Secrets",
+   "variant": null,
+   "category": "sapun-lichid",
+   "size": "500 ml",
+   "washes": null,
+   "barcode": "4820074623273",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 10,
+    "randPal": 7,
+    "baxPal": 70
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 13
+   },
+   "name": "Săpun gel Tasty Secrets cu extract de rodie",
+   "family": "Săpun gel cu extract de rodie Tasty Secrets",
+   "slug": "sapun-gel-tasty-secrets-cu-extract-de-rodie-500-ml",
+   "images": [
+    {
+     "src": "/products/sapun-gel-tasty-secrets-cu-extract-de-rodie-500-ml.webp",
+     "px": 1173,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Săpun gel pentru îngrijire delicată cu extract de căpșuni, pH 5,5",
+   "brand": null,
+   "variant": null,
+   "category": "sapun-lichid",
+   "size": "500 ml",
+   "washes": null,
+   "barcode": "4820074623259",
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 10,
+    "randPal": 7,
+    "baxPal": 70
+   },
+   "note": null,
+   "source": {
+    "pdf": "detergenti",
+    "page": 13
+   },
+   "name": "Săpun gel pentru îngrijire delicată cu extract de căpșuni, pH 5,5",
+   "family": "Săpun gel pentru îngrijire delicată cu extract de căpșuni, pH 5,5",
+   "slug": "sapun-gel-pentru-ingrijire-delicata-cu-extract-de-capsuni-ph-5-5-500-ml",
+   "images": [
+    {
+     "src": "/products/sapun-gel-pentru-ingrijire-delicata-cu-extract-de-capsuni-ph-5-5-500-ml.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Bomboane",
+   "brand": "Mon Mio",
+   "variant": "Sharsan",
+   "category": "bomboane-ciocolata",
+   "size": "1 kg",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 8,
+    "baxRand": 8,
+    "bucPalet": 384,
+    "baxPal": 48
+   },
+   "note": "aprox. 55 buc/kg",
+   "source": {
+    "pdf": "dulciuri",
+    "page": 1
+   },
+   "name": "Bomboane Mon Mio Sharsan",
+   "family": "Bomboane Mon Mio",
+   "slug": "bomboane-mon-mio-sharsan-1-kg",
+   "images": [
+    {
+     "src": "/products/bomboane-mon-mio-sharsan-1-kg.webp",
+     "px": 612,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Bomboane",
+   "brand": "Mon Mio",
+   "variant": "Lime",
+   "category": "bomboane-ciocolata",
+   "size": "500 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 8,
+    "bucPalet": 640,
+    "baxPal": 64
+   },
+   "note": "aprox. 63 buc/kg",
+   "source": {
+    "pdf": "dulciuri",
+    "page": 1
+   },
+   "name": "Bomboane Mon Mio cu aromă de lime",
+   "family": "Bomboane Mon Mio",
+   "slug": "bomboane-mon-mio-cu-aroma-de-lime-500-g",
+   "images": [
+    {
+     "src": "/products/bomboane-mon-mio-cu-aroma-de-lime-500-g.webp",
+     "px": 1200,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Bomboane",
+   "brand": "Mon Mio",
+   "variant": "Zmeură",
+   "category": "bomboane-ciocolata",
+   "size": "500 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 8,
+    "bucPalet": 640,
+    "baxPal": 64
+   },
+   "note": "aprox. 63 buc/kg",
+   "source": {
+    "pdf": "dulciuri",
+    "page": 1
+   },
+   "name": "Bomboane Mon Mio cu aromă de zmeură",
+   "family": "Bomboane Mon Mio",
+   "slug": "bomboane-mon-mio-cu-aroma-de-zmeura-500-g",
+   "images": [
+    {
+     "src": "/products/bomboane-mon-mio-cu-aroma-de-zmeura-500-g.webp",
+     "px": 1143,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Bomboane",
+   "brand": "Mon Mio",
+   "variant": "Coacăze negre",
+   "category": "bomboane-ciocolata",
+   "size": "500 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 8,
+    "bucPalet": 640,
+    "baxPal": 64
+   },
+   "note": "aprox. 63 buc/kg",
+   "source": {
+    "pdf": "dulciuri",
+    "page": 1
+   },
+   "name": "Bomboane Mon Mio cu aromă de coacăze negre",
+   "family": "Bomboane Mon Mio",
+   "slug": "bomboane-mon-mio-cu-aroma-de-coacaze-negre-500-g",
+   "images": [
+    {
+     "src": "/products/bomboane-mon-mio-cu-aroma-de-coacaze-negre-500-g.webp",
+     "px": 610
+    }
+   ]
+  },
+  {
+   "type": "Bomboane",
+   "brand": "Fly Mio",
+   "variant": "Pepene roșu și pepene galben",
+   "category": "bomboane-ciocolata",
+   "size": "500 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 8,
+    "bucPalet": 640,
+    "baxPal": 64
+   },
+   "note": "aprox. 63 buc/kg",
+   "source": {
+    "pdf": "dulciuri",
+    "page": 1
+   },
+   "name": "Bomboane Fly Mio cu aromă de pepene roșu și pepene galben",
+   "family": "Bomboane Fly Mio",
+   "slug": "bomboane-fly-mio-cu-aroma-de-pepene-rosu-si-pepene-galben-500-g",
+   "images": [
+    {
+     "src": "/products/bomboane-fly-mio-cu-aroma-de-pepene-rosu-si-pepene-galben-500-g.webp",
+     "px": 1092,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Bomboane",
+   "brand": "Fly Mio",
+   "variant": "Cheesecake cu cireșe",
+   "category": "bomboane-ciocolata",
+   "size": "500 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 10,
+    "baxRand": 8,
+    "bucPalet": 640,
+    "baxPal": 64
+   },
+   "note": "aprox. 63 buc/kg",
+   "source": {
+    "pdf": "dulciuri",
+    "page": 1
+   },
+   "name": "Bomboane Fly Mio cu aromă de cheesecake cu cireșe",
+   "family": "Bomboane Fly Mio",
+   "slug": "bomboane-fly-mio-cu-aroma-de-cheesecake-cu-cirese-500-g",
+   "images": [
+    {
+     "src": "/products/bomboane-fly-mio-cu-aroma-de-cheesecake-cu-cirese-500-g.webp",
+     "px": 1191,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Croissante",
+   "brand": "Mon Mio",
+   "variant": null,
+   "category": "patiserie-batoane",
+   "size": "45 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 24,
+    "baxRand": 8,
+    "bucPalet": null,
+    "baxPal": 192
+   },
+   "note": null,
+   "source": {
+    "pdf": "dulciuri",
+    "page": 1
+   },
+   "name": "Croissante Mon Mio cu umplutură de vișine, căpșuni, lapte sau ciocolată",
+   "family": "Croissante Mon Mio",
+   "slug": "croissante-mon-mio-cu-umplutura-de-visine-capsuni-lapte-sau-ciocolata-45-g",
+   "images": [
+    {
+     "src": "/products/croissante-mon-mio-cu-umplutura-de-visine-capsuni-lapte-sau-ciocolata-45-g.webp",
+     "px": 466
+    },
+    {
+     "src": "/products/croissante-mon-mio-cu-umplutura-de-visine-capsuni-lapte-sau-ciocolata-45-g-2.webp",
+     "px": 927,
+     "opaque": true
+    },
+    {
+     "src": "/products/croissante-mon-mio-cu-umplutura-de-visine-capsuni-lapte-sau-ciocolata-45-g-3.webp",
+     "px": 917,
+     "opaque": true
+    },
+    {
+     "src": "/products/croissante-mon-mio-cu-umplutura-de-visine-capsuni-lapte-sau-ciocolata-45-g-4.webp",
+     "px": 919,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Desert",
+   "brand": "Augustino",
+   "variant": null,
+   "category": "bomboane-ciocolata",
+   "size": "3 x 100 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 8,
+    "baxRand": null,
+    "bucPalet": 288,
+    "baxPal": 36
+   },
+   "note": null,
+   "source": {
+    "pdf": "dulciuri",
+    "page": 1
+   },
+   "name": "Desert Augustino",
+   "family": "Desert Augustino",
+   "slug": "desert-augustino-3-x-100-g",
+   "images": [
+    {
+     "src": "/products/desert-augustino-3-x-100-g.webp",
+     "px": 1170,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Mix de trufe",
+   "brand": null,
+   "variant": null,
+   "category": "bomboane-ciocolata",
+   "size": "1 kg",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 8,
+    "baxRand": 6,
+    "bucPalet": 384,
+    "baxPal": 48
+   },
+   "note": null,
+   "source": {
+    "pdf": "dulciuri",
+    "page": 2
+   },
+   "name": "Mix de trufe, 3 feluri",
+   "family": "Mix de trufe",
+   "slug": "mix-de-trufe-3-feluri-1-kg",
+   "images": [
+    {
+     "src": "/products/mix-de-trufe-3-feluri-1-kg.webp",
+     "px": 1116,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Baton de musli",
+   "brand": "Mon Mio",
+   "variant": null,
+   "category": "patiserie-batoane",
+   "size": "6 x 25 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 11,
+    "baxRand": 16,
+    "bucPalet": 2464,
+    "baxPal": 224
+   },
+   "note": null,
+   "source": {
+    "pdf": "dulciuri",
+    "page": 2
+   },
+   "name": "Baton de musli Mon Mio cu arahide",
+   "family": "Baton de musli Mon Mio",
+   "slug": "baton-de-musli-mon-mio-cu-arahide-6-x-25-g",
+   "images": [
+    {
+     "src": "/products/baton-de-musli-mon-mio-cu-arahide-6-x-25-g.webp",
+     "px": 1086,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Fursecuri",
+   "brand": "Mon Mio",
+   "variant": "Lukas Palmiers",
+   "category": "biscuiti-fursecuri",
+   "size": "800 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 1,
+    "baxRand": 24,
+    "bucPalet": null,
+    "baxPal": 384
+   },
+   "note": null,
+   "source": {
+    "pdf": "dulciuri",
+    "page": 2
+   },
+   "name": "Fursecuri de foietaj Mon Mio Lukas Palmiers",
+   "family": "Fursecuri Mon Mio",
+   "slug": "fursecuri-de-foietaj-mon-mio-lukas-palmiers-800-g",
+   "images": [
+    {
+     "src": "/products/fursecuri-de-foietaj-mon-mio-lukas-palmiers-800-g.webp",
+     "px": 417
+    }
+   ]
+  },
+  {
+   "type": "Fursecuri",
+   "brand": "Mon Mio",
+   "variant": "Scorțișoară",
+   "category": "biscuiti-fursecuri",
+   "size": "1,1 kg",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 1,
+    "baxRand": 24,
+    "bucPalet": null,
+    "baxPal": 384
+   },
+   "note": null,
+   "source": {
+    "pdf": "dulciuri",
+    "page": 2
+   },
+   "name": "Fursecuri Mon Mio cu scorțișoară",
+   "family": "Fursecuri Mon Mio",
+   "slug": "fursecuri-mon-mio-cu-scortisoara-1-1-kg",
+   "images": [
+    {
+     "src": "/products/fursecuri-mon-mio-cu-scortisoara-1-1-kg.webp",
+     "px": 748,
+     "opaque": true
+    }
+   ]
+  },
+  {
+   "type": "Biscuiți",
+   "brand": "Lagoda",
+   "variant": "Treffi",
+   "category": "biscuiti-fursecuri",
+   "size": "4 x 100 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": null,
+    "baxRand": null,
+    "bucPalet": null,
+    "baxPal": null
+   },
+   "note": null,
+   "source": {
+    "pdf": "dulciuri",
+    "page": 2
+   },
+   "name": "Biscuiți Lagoda Treffi tip sandviș glazurați, cu arahide",
+   "family": "Biscuiți Lagoda",
+   "slug": "biscuiti-lagoda-treffi-tip-sandvis-glazurati-cu-arahide-4-x-100-g",
+   "images": [
+    {
+     "src": "/products/biscuiti-lagoda-treffi-tip-sandvis-glazurati-cu-arahide-4-x-100-g.webp",
+     "px": 723
+    }
+   ]
+  },
+  {
+   "type": "Biscuiți",
+   "brand": "Colibri",
+   "variant": "Picături de ciocolată",
+   "category": "biscuiti-fursecuri",
+   "size": "300 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 9,
+    "baxRand": 9,
+    "bucPalet": 9,
+    "baxPal": 729
+   },
+   "note": null,
+   "source": {
+    "pdf": "dulciuri",
+    "page": 2
+   },
+   "name": "Biscuiți Colibri cu picături de ciocolată",
+   "family": "Biscuiți Colibri",
+   "slug": "biscuiti-colibri-cu-picaturi-de-ciocolata-300-g",
+   "images": [
+    {
+     "src": "/products/biscuiti-colibri-cu-picaturi-de-ciocolata-300-g.webp",
+     "px": 315
+    }
+   ]
+  },
+  {
+   "type": "Biscuiți",
+   "brand": "Colibri",
+   "variant": "Trei semințe",
+   "category": "biscuiti-fursecuri",
+   "size": "300 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 9,
+    "baxRand": 9,
+    "bucPalet": 9,
+    "baxPal": 729
+   },
+   "note": null,
+   "source": {
+    "pdf": "dulciuri",
+    "page": 2
+   },
+   "name": "Biscuiți Colibri cu trei semințe",
+   "family": "Biscuiți Colibri",
+   "slug": "biscuiti-colibri-cu-trei-seminte-300-g",
+   "images": [
+    {
+     "src": "/products/biscuiti-colibri-cu-trei-seminte-300-g.webp",
+     "px": 314
+    }
+   ]
+  },
+  {
+   "type": "Biscuiți",
+   "brand": "Colibri",
+   "variant": "Măr și scorțișoară",
+   "category": "biscuiti-fursecuri",
+   "size": "300 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 9,
+    "baxRand": 9,
+    "bucPalet": 9,
+    "baxPal": 729
+   },
+   "note": null,
+   "source": {
+    "pdf": "dulciuri",
+    "page": 2
+   },
+   "name": "Biscuiți Colibri cu măr și scorțișoară",
+   "family": "Biscuiți Colibri",
+   "slug": "biscuiti-colibri-cu-mar-si-scortisoara-300-g",
+   "images": [
+    {
+     "src": "/products/biscuiti-colibri-cu-mar-si-scortisoara-300-g.webp",
+     "px": 317
+    }
+   ]
+  },
+  {
+   "type": "Biscuiți",
+   "brand": "Colibri",
+   "variant": "Aromă de unt",
+   "category": "biscuiti-fursecuri",
+   "size": "300 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 9,
+    "baxRand": 9,
+    "bucPalet": 9,
+    "baxPal": 729
+   },
+   "note": null,
+   "source": {
+    "pdf": "dulciuri",
+    "page": 2
+   },
+   "name": "Biscuiți Colibri cu aromă de unt",
+   "family": "Biscuiți Colibri",
+   "slug": "biscuiti-colibri-cu-aroma-de-unt-300-g",
+   "images": [
+    {
+     "src": "/products/biscuiti-colibri-cu-aroma-de-unt-300-g.webp",
+     "px": 316
+    }
+   ]
+  },
+  {
+   "type": "Biscuiți",
+   "brand": "Colibri",
+   "variant": "Cacao și aromă de rom",
+   "category": "biscuiti-fursecuri",
+   "size": "300 g",
+   "washes": null,
+   "barcode": null,
+   "packaging": {
+    "bucBax": 9,
+    "baxRand": 9,
+    "bucPalet": 9,
+    "baxPal": 729
+   },
+   "note": null,
+   "source": {
+    "pdf": "dulciuri",
+    "page": 2
+   },
+   "name": "Biscuiți Colibri cu cacao și aromă de rom",
+   "family": "Biscuiți Colibri",
+   "slug": "biscuiti-colibri-cu-cacao-si-aroma-de-rom-300-g",
+   "images": [
+    {
+     "src": "/products/biscuiti-colibri-cu-cacao-si-aroma-de-rom-300-g.webp",
+     "px": 315
+    }
+   ]
+  }
+ ]
+}

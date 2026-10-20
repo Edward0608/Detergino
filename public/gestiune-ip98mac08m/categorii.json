@@ -1,0 +1,93 @@
+{
+ "groups": {
+  "rufe": "Rufe",
+  "vase-pardoseli": "Vase și pardoseli",
+  "odorizante": "Odorizante",
+  "curatenie": "Curățenie",
+  "servetele-umede": "Șervețele umede",
+  "cosmetice": "Cosmetice",
+  "dulciuri": "Dulciuri"
+ },
+ "categories": {
+  "detergent-lichid-rufe": {
+   "name": "Detergent lichid de rufe",
+   "group": "rufe"
+  },
+  "detergent-praf": {
+   "name": "Detergent praf de rufe",
+   "group": "rufe"
+  },
+  "capsule-rufe": {
+   "name": "Capsule de rufe",
+   "group": "rufe"
+  },
+  "balsam-rufe": {
+   "name": "Balsam de rufe",
+   "group": "rufe"
+  },
+  "detergent-vase": {
+   "name": "Detergent de vase",
+   "group": "vase-pardoseli"
+  },
+  "detergent-pardoseli": {
+   "name": "Detergent de pardoseli",
+   "group": "vase-pardoseli"
+  },
+  "odorizant-wc": {
+   "name": "Odorizant WC",
+   "group": "odorizante"
+  },
+  "odorizant-camera": {
+   "name": "Odorizant de cameră spray",
+   "group": "odorizante"
+  },
+  "difuzoare-betisoare": {
+   "name": "Difuzoare cu bețișoare",
+   "group": "odorizante"
+  },
+  "mopuri-galeti": {
+   "name": "Mopuri și găleți",
+   "group": "curatenie"
+  },
+  "accesorii-curatenie": {
+   "name": "Accesorii de curățenie",
+   "group": "curatenie"
+  },
+  "servetele-umede": {
+   "name": "Șervețele umede",
+   "group": "servetele-umede"
+  },
+  "sapun-lichid": {
+   "name": "Săpun lichid",
+   "group": "cosmetice"
+  },
+  "bomboane-ciocolata": {
+   "name": "Bomboane și ciocolată",
+   "group": "dulciuri"
+  },
+  "biscuiti-fursecuri": {
+   "name": "Biscuiți și fursecuri",
+   "group": "dulciuri"
+  },
+  "patiserie-batoane": {
+   "name": "Croissante și batoane",
+   "group": "dulciuri"
+  }
+ },
+ "brands": [
+  "Augustino",
+  "Colibri",
+  "Fibril",
+  "Fly Mio",
+  "Free",
+  "Golf",
+  "JO",
+  "Lagoda",
+  "Lime",
+  "Mon Mio",
+  "Moon",
+  "Super Wash",
+  "Tasty Secrets",
+  "Ultra&Free"
+ ]
+}

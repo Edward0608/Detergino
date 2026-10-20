@@ -1,0 +1,3 @@
+Logo-uri de brand: <slug-brand>.svg sau .png (fundal transparent), de exemplu super-wash.svg, ultra-free.png, golf.svg.
+Slug-urile: super-wash, free, ultra-free, jo, golf, moon, fibril, aquella, lime, tasty-secrets, mon-mio, fly-mio, colibri, lagoda, augustino.
+Descrierea și site-ul brandului se pun în src/data/brands.json. După modificări rulezi: npm run build

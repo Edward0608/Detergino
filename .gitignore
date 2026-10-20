@@ -1,0 +1,57 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# local / deploy
+/.wrangler/
+tsconfig.tsbuildinfo
+.env
+.env.local
+
+# date create la rulare de gestiune (nu se urcă): produse adăugate, parola, poze încărcate
+/public/gestiune-*/data/produse.json
+/public/gestiune-*/data/auth.php
+/public/gestiune-*/data/incercari.json
+/public/gestiune-*/data/.lock
+/public/uploads/
+
+# note generate de unelte
+AGENTS.md

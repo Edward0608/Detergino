@@ -1,0 +1,12 @@
+{
+  // Cloudflare: site static (exportul Next.js din `out`) servit ca Worker cu assets.
+  // Publicare: npm run build && npm run deploy
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "detergino",
+  "compatibility_date": "2026-10-06",
+  "assets": {
+    "directory": "./out",
+    "not_found_handling": "404-page",
+    "html_handling": "auto-trailing-slash"
+  }
+}

@@ -1,0 +1,12 @@
+Fișe tehnice, declarații de conformitate, fișe cu date de securitate (PDF).
+
+Denumirea fișierului decide pe ce pagină de produs apare și cu ce titlu:
+  <slug-produs>-fisa-tehnica.pdf
+  <slug-produs>-declaratie-conformitate.pdf
+  <slug-produs>-fisa-securitate.pdf
+  <cod-de-bare>-fisa-tehnica.pdf        (merge și cu codul de bare în loc de slug)
+
+Slug-ul este partea din adresa paginii de produs de după /produse/, de exemplu
+  detergent-lichid-de-rufe-super-wash-ocean-fresh-5-l
+Lista completă slug / cod de bare / nume este în docs/lista-poze.csv.
+După adăugarea fișierelor rulezi din nou: npm run build

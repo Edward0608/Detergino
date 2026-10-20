@@ -1,0 +1,17 @@
+# Hostico (Apache): site static Next.js + admin PHP
+ErrorDocument 404 /404.html
+Options -Indexes
+
+# adresele cu slash final, ca în exportul Next.js
+DirectoryIndex index.html index.php
+
+# fără cache lung pe API și admin; poze și fișiere statice cu cache
+<IfModule mod_headers.c>
+  <FilesMatch "\.(webp|jpg|jpeg|png|svg|woff2|css|js)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+</IfModule>
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/webp "access plus 30 days"
+</IfModule>

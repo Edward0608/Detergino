@@ -1,0 +1,4 @@
+Pictogramele oficiale ANPC (nu se redesenează, nu se modifică, nu se schimbă linkurile):
+  sal.svg -> https://reclamatiisal.anpc.ro/Depune-cerere-SAL
+  sol.svg -> https://reclamatiisal.anpc.ro/
+Se afișează în subsol (src/components/site-footer.tsx), 175 x 50 px.
